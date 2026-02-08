@@ -1,30 +1,28 @@
 {
-    "name": "Hrishikesh Paul",
+    "name": "Joshua Deering",
     "logoType": {
-        "mobile": "HP",
-        "desktop": "Hrishikesh Paul"
+        "mobile": "JD",
+        "desktop": "Joshua Deering"
     },
     "mainPicture": "/assets/HP.webp",
     "mainPictureJPG": "/assets/HP.jpeg",
-    "pronunciation": "/ri-shi-kaysh/",
-    "audioFile": "/assets/name-pro.mp3",
     "cssVarPrefix": "hp",
-    "email": "hrishikeshpaul12@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "email": "jdeer083@uottawa.ca",
+    "linkedin": "https://www.linkedin.com/in/joshuadeering/",
+    "github": "https://github.com/Joshua-Deering",
+    "resume": "https://docs.google.com/document/d/1y43B8dZKGNdrShpl2XulmKaUpYmMXH4rRMD-LQGql9k/preview",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": "https://www.linkedin.com/in/joshuadeering/"
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": "https://github.com/Joshua-Deering"
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:jdeer083@uottawa.ca"
         }
     ]
 }

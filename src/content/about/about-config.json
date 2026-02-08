@@ -57,56 +57,27 @@
     ],
     "skills": [
         {
+            "title": "Hardware & Embedded Systems",
+            "tools": ["Digital Circuit Design", "KiCad", "Altium Designer", "Hardware Interfacing", "Digital Logic"]
+        },
+        {
             "title": "Programming",
             "tools": [
-                "TypeScript",
-                "JavaScript",
-                "Python",
-                "C/C++",
+                "C++20",
+                "Rust",
                 "Java",
-                "NoSQL",
-                "SQL",
-                "Shell",
-                "React Native",
-                "Vega (D3.js)"
+                "C#",
+                "JavaScript",
+                "Python"
             ]
         },
         {
-            "title": "Web",
-            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
-        },
-        {
-            "title": "Databases",
-            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
-        },
-
-        {
             "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
+            "tools": ["MacOS", "Linux", "Windows", "QNX", "Git", "Avid Consoles"]
         },
         {
             "title": "Design & Research",
-            "tools": [
-                "Surveys",
-                "Interviews",
-                "User Research",
-                "Design Strategy",
-                "Experience Mapping",
-                "Adobe XD",
-                "Illustrator"
-            ]
-        }
-    ],
-    "blog": [
-        {
-            "id": "blog-1",
-            "title": "A beginner's guide to github",
-            "link": "https://hrishikeshpaul12.medium.com/a-beginners-guide-to-github-a811e662a777"
-        },
-        {
-            "id": "blog-2",
-            "title": "User Experience Design – A little more than just design",
-            "link": "https://hrishikeshpaul12.medium.com/user-experience-design-a-little-more-than-just-design-afdb941aeb5"
+            "tools": ["Data Structures & Algorithms", "Signal Processing", "Data Analysis", "Backend Processing", "Optimization"]
         }
     ]
 }
