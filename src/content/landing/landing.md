@@ -1,10 +1,1 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
-
-I'm currently working with,
-
--   React (TS)
--   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
--   GraphQL
+Welcome! I’m Joshua Deering, a Computer Engineering student at the University of Ottawa building at the intersection of software and hardware. From designing circuit boards for Formula SAE and ESP32-powered haptics to developing Rust DSP tools, I enjoy turning complex ideas into physical reality. Away from my computer, you’ll find me on the volleyball court, snowboarding, or outdoors with a fresh cup of coffee.
