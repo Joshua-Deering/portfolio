@@ -4,8 +4,8 @@
         "mobile": "JD",
         "desktop": "Joshua Deering"
     },
-    "mainPicture": "/assets/vb.webp",
-    "mainPictureJPG": "/assets/vb.jpeg",
+    "mainPicture": "assets/vb.webp",
+    "mainPictureJPG": "assets/vb.jpeg",
     "cssVarPrefix": "hp",
     "email": "jdeer083@uottawa.ca",
     "linkedin": "https://www.linkedin.com/in/joshuadeering/",
