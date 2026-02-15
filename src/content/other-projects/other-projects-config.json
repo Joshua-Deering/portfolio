@@ -6,7 +6,7 @@
         "github": "https://github.com/Joshua-Deering/CitySense",
         "tags": ["C++20", "OOP", "RAII", "Multithreading", "Optimization", "Data Processing"],
         "description": "CitySense simulates smart-city sensor data (traffic, air quality, and noise) using modern C++20. The simulator reads CSV/JSON inputs, aggregates readings in rolling windows, detects anomalies, and outputs console/JSON summaries.",
-        "image": "/assets/other-projects/citysense-demo.jpeg",
+        "image": "/assets/other-projects/citysense-demo.webp",
         "jpg": "/assets/other-projects/citysense-demo.jpeg"
     }
 ]
