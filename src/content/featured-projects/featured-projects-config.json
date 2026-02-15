@@ -1,64 +1,35 @@
 [
     {
-        "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "id": "featured-project-octave",
+        "title": "Octave",
+        "year": "Jan - April 2025",
+        "location": "Ottawa",
+        "github": "https://github.com/Joshua-Deering/Octave",
+        "tags": ["Rust", "Slint", "DSP", "Audio Visualization", "Multithreading"],
+        "description": "Full featured audio visualization and processing app, built from the ground up with Rust and Slint. Includes Real Time Analyzer (RTA), live EQ, Spectrogram generation and more.",
+        "image": "/assets/featured-projects/octave-demo.webp",
+        "jpg": "/assets/featured-projects/octave-demo.jpeg"
     },
     {
-        "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
+        "id": "featured-project-vertent",
+        "title": "Vertent",
+        "year": "Dec 2025 - Present",
+        "location": "Ottawa",
+        "github": "https://github.com/Joshua-Deering/Vertent",
+        "tags": ["ESP32", "3D Printing", "PCB Design", "KiCad", "C++", "Power Management", "Real-Time haptics", "Motor Control", "Bluetooth LE"],
+        "description": "Vertent is a BLDC-actuated haptic interface that uses \"virtual detents\" to provide infinitely variable scrolling resistance and tactile alerts. This project bridges the gap between precision and ergonomics through custom electronics and low-latency C++ firmware.",
+        "image": "/assets/featured-projects/vertent-demo.webp",
+        "jpg": "/assets/featured-projects/vertent-demo.jpeg"
     },
     {
-        "id": "featured-project-scrapbook",
-        "title": "Scrapbook",
-        "year": "Jan 2021 - May 2021",
-        "location": "Indiana University",
-
-        "tags": [
-            "Angular 11",
-            "Flask",
-            "Node",
-            "Python",
-            "TypeScript",
-            "Docker",
-            "Docker Hub",
-            "Jenkins",
-            "Kubernetes",
-            "GKE",
-            "GCP"
-        ],
-        "demo": "http://34.69.102.109/",
-        "github": "https://github.com/hrishikeshpaul/scrapbook",
-        "description": "A micro-service architecture based web application that enables users to upload, share and manage images.",
-        "readMore": "https://hrishikeshpaul.medium.com/scrapbook-a-micro-service-based-photo-sharing-application-3a8760681af6",
-        "image": "/assets/featured-projects/scrapbook.webp",
-        "jpg": "/assets/featured-projects/scrapbook.jpeg"
-    },
-    {
-        "id": "featured-project-measure-ux",
-        "location": "Indiana University",
-        "title": "Measuring User Experience",
-        "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
-        "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
-        "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
-        "image": "/assets/featured-projects/measure-ux.webp",
-        "jpg": "/assets/featured-projects/measure-ux.jpeg"
+        "id": "featured-project-mandelbrot",
+        "title": "Mandelbrot Set Explorer",
+        "year": "June - Dec 2022",
+        "location": "Toronto",
+        "tags": ["C#", "ASP.NET", ".NET", "Blazor", "Visualization", "Full-Stack"],
+        "github": "https://github.com/Bdeering1/mandelbrot",
+        "description": "Full Stack ASP.NET Core application for rendering the Mandelbrot set. Capable of rendering images at any level of zoom, using arbitrary precision decimals",
+        "image": "/assets/featured-projects/mandelbrot-demo.webp",
+        "jpg": "/assets/featured-projects/mandelbrot-demo.jpeg"
     }
 ]
