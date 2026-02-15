@@ -1,0 +1,1 @@
+Welcome! I’m Joshua Deering, a Computer Engineering student at the University of Ottawa. I work on embedded and hardware-focused projects, with an interest in building reliable, real-world systems.
