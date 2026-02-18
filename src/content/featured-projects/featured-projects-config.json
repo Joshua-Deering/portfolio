@@ -11,15 +11,15 @@
         "jpg": "assets/featured-projects/octave-demo.jpeg"
     },
     {
-        "id": "featured-project-vertent",
-        "title": "Vertent",
+        "id": "featured-project-virtent",
+        "title": "Virtent (Virtual-Detent)",
         "year": "Dec 2025 - Present",
         "location": "Ottawa",
-        "github": "https://github.com/Joshua-Deering/Vertent",
+        "github": "https://github.com/Joshua-Deering/Virtent",
         "tags": ["ESP32", "3D Printing", "PCB Design", "KiCad", "C++", "Power Management", "Real-Time haptics", "Motor Control", "Bluetooth LE"],
-        "description": "Vertent is a BLDC-actuated haptic interface that uses \"virtual detents\" to provide infinitely variable scrolling resistance and tactile alerts. This project bridges the gap between precision and ergonomics through custom electronics and low-latency C++ firmware.",
-        "image": "assets/featured-projects/vertent-demo.webp",
-        "jpg": "assets/featured-projects/vertent-demo.jpeg"
+        "description": "Virtent is a BLDC-actuated haptic interface that uses \"virtual detents\" to provide infinitely variable scrolling resistance and tactile alerts. This project bridges the gap between precision and ergonomics through custom electronics and low-latency C++ firmware.",
+        "image": "assets/featured-projects/virtent-demo.webp",
+        "jpg": "assets/featured-projects/virtent-demo.jpeg"
     },
     {
         "id": "featured-project-mandelbrot",
@@ -28,7 +28,7 @@
         "location": "Toronto",
         "tags": ["C#", "ASP.NET", ".NET", "Blazor", "Visualization", "Full-Stack"],
         "github": "https://github.com/Bdeering1/mandelbrot",
-        "description": "Full Stack ASP.NET Core application for rendering the Mandelbrot set. Capable of rendering images at any level of zoom, using arbitrary precision decimals",
+        "description": "Full Stack ASP.NET Core application for rendering the Mandelbrot set. Capable of rendering images at any level of zoom, using arbitrary precision decimals. Co-developed with Bryn Deering",
         "image": "assets/featured-projects/mandelbrot-demo.webp",
         "jpg": "assets/featured-projects/mandelbrot-demo.jpeg"
     }
