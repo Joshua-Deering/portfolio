@@ -14,22 +14,24 @@
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Rexdale Alliance Church",
-            "position": "Audio Engineer",
-            "duration": "Oct 2023 - Present",
+            "company": "Teledyne DALSA",
+            "position": "Hardware Design Test Co-op",
+            "duration": "May 2026 - Present",
             "description": [
-                "Oversight of all sound equipment, including Avid console & Sennheiser wireless systems",
-                "Running front of house and livestream audio for rentals, events, and regularly scheduled programs"
+                "Conducting hardware validation and testing for the Kaleido SWIR hyperspectral camera.",
+                "Execute rigorous test plans to isolate hardware issues, debug components, and resolve bugs.",
+                "Profile camera performance, focusing on sensor data integrity, noise levels, and processing throughput.",
+                "Collaborate with the engineering team to log hardware issues and ensure the system meets performance specs."
             ]
         },
         {
             "id": "exp-2",
             "company": "Rexdale Alliance Church",
-            "position": "Community Worker",
-            "duration": "Summer 2025",
+            "position": "Audio Engineer",
+            "duration": "Oct 2023 - Sept 2025",
             "description": [
-                "Planned and coordinated community programs and events, handling logistics and outreach",
-                "Contacted and scheduled meetings with local elected officials (MP, MPP) and community partners"
+                "Oversight of all sound equipment, including Avid console & Sennheiser wireless systems",
+                "Running front of house and livestream audio for rentals, events, and regularly scheduled programs"
             ]
         },
         {
