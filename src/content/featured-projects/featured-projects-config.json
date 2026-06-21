@@ -1,5 +1,16 @@
 [
     {
+        "id": "featured-project-fsae",
+        "title": "Formula SAE uOttawa",
+        "year": "Jan 2026 - Present",
+        "location": "Ottawa",
+        "github": "https://www.formulauottawa.ca/",
+        "tags": ["Automotive Wiring", "PCB Design", "Troubleshooting", "3D Printing", "Systems Engineering"],
+        "description": "Design, manufacturing, and routing of the vehicle's complete wiring harness to ensure maximum reliability and clean packaging. Leading the development of a new Data Acquisition (DAQ) system, integrating analog-to-digital conversion, sensor logging, and CAN bus communication for real-time telemetry tracking.",
+        "image": "assets/featured-projects/fsae.webp",
+        "jpg": "assets/featured-projects/fsae.jpeg"
+    },
+    {
         "id": "featured-project-octave",
         "title": "Octave",
         "year": "Jan - April 2025",
